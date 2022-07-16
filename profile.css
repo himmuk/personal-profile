@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("peace.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}     
+.profile{
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family:'century gothic' sans-serif;
+    text-align: center;
+    border-radius: 5px;
+}
+.profile-img{
+    border-radius: 50%;
+    width: 170px;
+    height: 200px;
+}
+ .profile-img h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.profile-img h5{
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+.profile-img .list{
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 100; }
+    p{
+    text-align: justify;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.profile li{
+    display: inline-block;
+    margin: auto;
+}
+.profile li a{
+   margin-left: 15px;
+    
+}
